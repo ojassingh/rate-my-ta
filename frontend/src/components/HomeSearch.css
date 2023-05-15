@@ -1,0 +1,19 @@
+.campus-subtitle {
+  font-size: 1.5rem;
+  padding: 3%;
+}
+
+.home-search {
+  margin: 2%;
+  padding: 1% 2% 1% 2%;
+  font-size: 1.25rem;
+  border-radius: 20px;
+}
+
+.home-back {
+  margin: 4%;
+}
+
+.home-back:hover {
+  color: #0d05f2;
+}
