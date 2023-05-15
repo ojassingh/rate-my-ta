@@ -16,4 +16,5 @@
 
 .home-back:hover {
   color: #0d05f2;
+  cursor: pointer;
 }

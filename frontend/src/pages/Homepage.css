@@ -31,4 +31,5 @@
 
 .campus-container div:hover {
   color: #0d05f2;
+  cursor: pointer;
 }
