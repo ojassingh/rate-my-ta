@@ -1,0 +1,34 @@
+.main-container {
+  padding: 0 2rem;
+  text-align: center;
+}
+
+.home-title {
+  background-image: linear-gradient(45deg, #2e27f2, #0d05f2);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-weight: bolder;
+  font-size: 9rem;
+  margin: 12% 12% 5% 12%;
+}
+
+.home-subtitle {
+  font-size: 1.5rem;
+  padding: 3%;
+}
+
+.campus-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 3%;
+}
+
+.campus-container div {
+  font-size: 1.5rem;
+}
+
+.home-ta-select {
+  padding: 4%;
+}
