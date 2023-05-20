@@ -20,6 +20,7 @@ const Login = () => {
           Log In
         </button>
       </form>
+      <div className="signup-link">Don't have an account? Sign Up</div>
     </div>
   );
 };
