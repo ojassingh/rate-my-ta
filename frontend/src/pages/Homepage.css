@@ -14,6 +14,7 @@
 }
 
 .home-subtitle {
+  font-weight: bold;
   font-size: 1.5rem;
   padding: 3%;
 }
@@ -32,4 +33,19 @@
 .campus-container div:hover {
   color: #0d05f2;
   cursor: pointer;
+}
+
+@media screen and (max-width: 500px) {
+  .home-title {
+    font-size: 4.5rem;
+  }
+
+  .home-subtitle {
+    margin: 10% 0%;
+    font-size: 1rem;
+  }
+
+  .campus-container div {
+    font-size: 1rem;
+  }
 }
